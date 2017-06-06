@@ -1,0 +1,38 @@
+{
+  "name": "rickey",
+  "version": "1.0.0",
+  "description": "*fastest* tool to get native type of value",
+  "main": "./lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "kind-of": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"lol\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedFoxCode/rickey.git"
+  },
+  "keywords": [
+    "type",
+    "kind",
+    "native",
+    "check",
+    "type-of",
+    "date",
+    "function",
+    "is",
+    "is-type",
+    "string",
+    "regexp",
+    "types",
+    "typeof"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RedFoxCode/rickey/issues"
+  },
+  "homepage": "https://github.com/RedFoxCode/rickey#readme"
+}
